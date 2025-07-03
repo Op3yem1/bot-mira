@@ -31,7 +31,7 @@ mira/
 
 ## Setup
 
-1. **Clone the repository** and navigate to the `mira` directory.
+1. **Clone the repository** and navigate to the `mira` directory in your preferred IDE e.g VS Code.
 
 2. **Install dependencies**:
     ```sh
@@ -57,7 +57,7 @@ mira/
 5. **Run the chatbot**:
 
     ```sh
-    streamlit run rag-chatbot.py
+    python -m streamlit run rag-chatbot.py
     ```
 
 ## Usage
